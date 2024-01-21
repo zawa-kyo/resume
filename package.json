@@ -30,7 +30,6 @@
     "textlint-rule-ja-space-between-half-and-full-width": "^2.3.0",
     "textlint-rule-ja-unnatural-alphabet": "^2.0.1",
     "textlint-rule-max-comma": "^4.0.0",
-    "textlint-rule-max-kanji-continuous-len": "^1.1.1",
     "textlint-rule-max-ten": "^5.0.0",
     "textlint-rule-no-double-negative-ja": "^2.0.1",
     "textlint-rule-no-doubled-conjunction": "^3.0.0",

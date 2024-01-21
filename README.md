@@ -7,4 +7,3 @@
 | Zenn     | [kyo](https://zenn.dev/zawa_kyo)                          |
 | LinkedIn | [Kyohei Ozawa](https://www.linkedin.com/in/kyohei-ozawa/) |
 | Mail     | kyohei.ozawa.work@gmail.com                               |
-

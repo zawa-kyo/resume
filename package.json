@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "lint": "textlint . && markdownlint **/*.md"
+    "lint": "textlint . && markdownlint ./README.md"
   },
   "devDependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.1.2",

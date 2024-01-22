@@ -2,5 +2,7 @@
   "MD013": {
     "line_length": 120 // 一行の文字数上限
   },
-  "MD041": false // true: ファイルの最初の行はトップレベルの見出しにする
+  "MD024": false, // no-duplicate-heading Multiple headings with the same content
+  "MD041": false // ファイルの最初の行はトップレベルの見出しにする
+
 }

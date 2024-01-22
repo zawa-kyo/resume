@@ -105,16 +105,20 @@
 - Java
 - Swift
 - Objective-C
+- HTML/CSS
 
 #### プライベートで書いている言語
 
 - Rust
+- Dart
 - TypeScript
 
 ### フレームワーク
 
 - Apache Cordova
 - Vue.js
+- OnsenUI
+- Node.js
 - Flutter
   - 最低限を理解している程度
 
@@ -122,13 +126,16 @@
 
 - Sentry
 
-### クラウドネイティブ
+### コンテナ仮想化
 
 - Docker
   - 日常的に使用
+- rancher-desktop
 
 ### 開発手法
 
+- ウォーターフォール開発
+  - 開発経験2年
 - アジャイル開発、スクラム開発
   - スクラムチームでの開発経験2年以上
 
@@ -139,10 +146,12 @@
   - GitHub Actions
 - コミュニケーションツール
   - Slack
+- エディタ
+  - Visual Studio Code
+  - Vim, Neovim
 - 基本的な操作は可能
   - Git
-  - Zsh, Bash
-  - Vim/Neovim
+  - zsh, bash
 
 ## 資格
 

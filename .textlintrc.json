@@ -10,7 +10,7 @@
     "ja-no-abusage": true,
     "ja-no-mixed-period": true,
     "ja-no-redundant-expression": true,
-    "ja-no-space-around-parentheses": true,
+    "ja-no-space-around-parentheses": false,
     "ja-no-space-between-full-width": false,
     "ja-space-after-exclamation": true,
     "ja-space-after-question": true,

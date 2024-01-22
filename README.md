@@ -174,7 +174,9 @@
 
 #### 卒業論文
 
+<!-- markdownlint-disable MD033 -->
 - 『塩化クロム六水和物を出発物質としたクロム三核錯体 [Cr<sub>3</sub>O(O<sub>2</sub><em>t</em>-Bu)<sub>6</sub>(H<sub>2</sub>O)<sub>3</sub>]Cl の合成』
+<!-- markdownlint-enable MD033 -->
 
 ### 2018/04 - 2020/03 東京工業大学 理学院 化学系
 

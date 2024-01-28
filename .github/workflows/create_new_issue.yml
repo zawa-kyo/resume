@@ -1,0 +1,17 @@
+name: Create new issue
+
+on:
+  schedule:
+    - cron: '0 0 1 */3 *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Create new issue
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v3
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

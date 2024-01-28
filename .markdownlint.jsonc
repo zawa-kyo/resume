@@ -4,5 +4,4 @@
   },
   "MD024": false, // no-duplicate-heading Multiple headings with the same content
   "MD041": false // ファイルの最初の行はトップレベルの見出しにする
-
 }

@@ -203,10 +203,11 @@
 
 #### 学会発表等
 
-- 2019/03 日本化学会 第99春季年会 ポスター発表
-- 2019/08 第31回配位化合物の光化学討論会 口頭発表
-- 2019/09 光化学討論会 ポスター発表
-- 2019/12 第2回ソフトクリスタル・革新的光-物質変換合同若手研究者育成シンポジウム 口頭発表
+- 2019/03 日本化学会 第99春季年会 ポスター発表『錯体の一電子還元過程についての検討』
+- 2019/06 第40回 光化学若手の会 ポスター発表『光増感錯体の一電子還元種生成過程の検討』
+- 2019/08 第31回 配位化合物の光化学討論会 口頭発表『光電子移動反応における光増感錯体の1電子還種生成効率を決定する要因』
+- 2019/09 2019年 光化学討論会 ポスター発表『Investigation of quantum yields for photo-induced electron transfer processes of metal-complex photosensitizers』
+- 2019/12 第2回 ソフトクリスタル・革新的光-物質変換合同若手研究者育成シンポジウム 口頭発表『光増感錯体の光誘起電子移動による一電子還元種生成過程の検討』
 
 #### 受賞
 
@@ -214,4 +215,4 @@
 
 #### 投稿論文
 
-- J. Phys. Chem., "Factors determining formation efficiencies of one-electron-reduced species of redox photosensitizers"
+- Kyohei Ozawa, Yusuke Tamaki, Kei Kamogawa, Kazuhide Koike, Osamu Ishitani; Factors determining formation efficiencies of one-electron-reduced species of redox photosensitizers. *J. Chem. Phys.* 21 October 2020; *153* (15): 154302

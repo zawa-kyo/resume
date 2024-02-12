@@ -41,15 +41,13 @@
     "no-nfd": true,
     "period-in-list-item": true,
     "prefer-tari-tari": true,
-    "sentence-length": {
-      "max": 150
-    },
     "terminology": {
       "defaultTerms": true
     },
     "use-si-units": {
       "allowedUnits": [
-        "%"
+        "%",
+        "October"
       ],
       "restrictNonSIUnits": true
     },

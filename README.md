@@ -206,7 +206,7 @@
 - 小澤京平、玉置悠祐、小池和英、中川達夫、石谷治、"錯体の一電子還元過程についての検討"、日本化学会 第99春季年会、2019.3、兵庫、ポスター発表
 - 小澤京平、玉置悠祐、小池和英、石谷治、"光増感錯体の一電子還元種生成過程の検討"、第40回 光化学若手の会、2019.6、富山、口頭発表
 - 小澤京平、玉置悠祐、小池和英、石谷治、"光電子移動反応における光増感錯体の1電子還種生成効率を決定する要因"、第31回 配位化合物の光化学討論会、2019.08、東京、口頭発表
-- OZAWA, Kyohei, TAMAKI, Yusuke, KOIKE, Kazuhide, ISHITANI, Osamu, "Investigation of quantum yields for photo-induced electron transfer processes of metal-complex photosensitizers", 光化学討論会、2019.09、名古屋、ポスター発表
+- OZAWA, Kyohei; TAMAKI, Yusuke; KOIKE, Kazuhide; ISHITANI, Osamu; "Investigation of quantum yields for photo-induced electron transfer processes of metal-complex photosensitizers", 光化学討論会、2019.09、名古屋、ポスター発表
 - 小澤京平、玉置悠祐、小池和英、石谷治、"光増感錯体の光誘起電子移動による一電子還元種生成過程の検討"、第2回 ソフトクリスタル・革新的光-物質変換合同若手研究者育成シンポジウム、2019.11、北海道、口頭発表
 
 #### 受賞

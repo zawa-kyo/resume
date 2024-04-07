@@ -121,11 +121,11 @@
 - Swift
 - Objective-C
 - HTML/CSS
+- Dart
 
 #### プライベートで書いている言語
 
 - Rust
-- Dart
 - TypeScript
 
 ### フレームワーク
@@ -133,9 +133,8 @@
 - Apache Cordova
 - Vue.js
 - OnsenUI
-- Node.js
 - Flutter
-  - 最低限を理解している程度
+- SwiftUI
 
 ### モニタリング・ロギング
 
@@ -161,9 +160,15 @@
   - GitHub Actions
 - コミュニケーションツール
   - Slack
+  - Google Chat
 - エディタ
   - Visual Studio Code
   - Vim, Neovim
+- プロジェクト管理
+  - Backlog
+- 組版
+  - LaTeX
+    - 卒業論文、修士論文の執筆に3年間利用
 - 基本的な操作は可能
   - Git
   - zsh, bash
@@ -176,8 +181,8 @@
 | 2016/9  | TOEIC® Listening & Reading Test: 725           |                      |
 | 2023/3  | Oracle Certified Java Programmer, Silver SE 11 | 認定番号 444660399   |
 | 2023/5  | Oracle Certified Java Programmer, Gold SE 11   | 認定番号 450474905   |
-| 2023/8  | 基本情報処理技術者                             | 第FE-2023-07-02729号 |
-| 2023/12 | 応用情報処理技術者                             | 第AP-2023-10-02752号 |
+| 2023/8  | 基本情報技術者                                 | 第FE-2023-07-02729号 |
+| 2023/12 | 応用情報技術者                                 | 第AP-2023-10-02752号 |
 
 ## 技術記事発信
 

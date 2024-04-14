@@ -175,7 +175,7 @@
 
 ## 資格
 
-| Date    | Certification                                  | Certificate          |
+| Date    | Qualification                                  | Certificate          |
 | ------- | ---------------------------------------------- | -------------------- |
 | 2015/9  | 普通自動車第一種運転免許                       |                      |
 | 2016/9  | TOEIC® Listening & Reading Test: 725           |                      |

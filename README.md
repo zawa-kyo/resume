@@ -115,36 +115,55 @@
 
 #### プロダクションコードを書いた経験がある言語
 
-- Python
-- JavaScript
-- Java
-- Swift
-- Objective-C
-- HTML/CSS
-- Dart
+![Python](https://img.shields.io/badge/-Python-E3C93C.svg?logo=python&style=flat) ![Java](https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat) ![Dart](https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-F5932B.svg?logo=html5&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-E6D211.svg?logo=javascript&style=flat) ![Swift](https://img.shields.io/badge/-Swift-F4F4F4.svg?logo=swift&style=flat) ![Objective-C](https://img.shields.io/badge/-Objective--C-000000.svg?logo=c&style=flat) ![C](https://img.shields.io/badge/-C-005697.svg?logo=c&style=flat)
+
+#### 学生時代に研究に利用した言語
+
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat) ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100.svg?logo=wolframmathematica&style=flat) ![R](https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat) ![Igor Pro](https://img.shields.io/badge/-Igor%20Pro-7592D1.svg?logo=&style=flat)
 
 #### プライベートで書いている言語
 
-- Rust
-- TypeScript
+![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat) ![TypeScript](https://img.shields.io/badge/-Typescript-DAECF6.svg?logo=typescript&style=flat)
 
 ### フレームワーク
 
-- Apache Cordova
-- Vue.js
-- OnsenUI
-- Flutter
-- SwiftUI
+![Flutter](https://img.shields.io/badge/-Flutter-1EB6F5.svg?logo=flutter&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat) ![Cordova](https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat)
 
 ### モニタリング・ロギング
 
-- Sentry
+![Sentry](https://img.shields.io/badge/-Sentry-C43A5D.svg?logo=sentry&style=flat) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FFC107.svg?logo=google-analytics&style=flat) ![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-D10C01.svg?logo=adobe&style=flat)
 
 ### コンテナ仮想化
 
-- Docker
-  - 日常的に使用
-- rancher-desktop
+![Docker](https://img.shields.io/badge/-Docker-F7F7F7.svg?logo=docker&style=flat) ![Rancher Desktop](https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat)
+
+### ビルド・デプロイフローの構築、運用
+
+![Bitrise](https://img.shields.io/badge/-Bitrise-6A3B98.svg?logo=bitrise&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717.svg?logo=githubactions&style=flat)
+
+### クラウド
+<!-- TODO: Change Amazon AWS to Amazon Web Services (v12.0.0)-->
+![Firebase](https://img.shields.io/badge/-Firebase-1A73E8.svg?logo=firebase&style=flat) ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws&style=flat)
+
+### API開発
+
+![Postman](https://img.shields.io/badge/-Postman-F7F7F7.svg?logo=postman&style=flat) ![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-517C37.svg?logo=swagger&style=flat)
+
+### コミュニケーションツール
+
+![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat) ![Google Chat](https://img.shields.io/badge/-Google%20Chat-00832D.svg?logo=googlechat&style=flat) ![Google Hangouts](https://img.shields.io/badge/-Google%20Hangouts-00832D.svg?logo=googlehangouts&style=flat) ![Google Meet](https://img.shields.io/badge/-Google%20Meet-00832D.svg?logo=googlemeet&style=flat) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat) ![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)
+
+### エディタ、デザイン、Wiki作成
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-4283F6.svg?logo=androidstudio&style=flat) ![RStudio](https://img.shields.io/badge/-RStudio-FFF.svg?logo=rstudio&style=flat) ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat) ![NeoVim](https://img.shields.io/badge/-NeoVim-0460B1.svg?logo=neovim&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat) ![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat) ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat) ![Miro](https://img.shields.io/badge/-Miro-F7CA2E.svg?logo=miro&style=flat) ![Figma](https://img.shields.io/badge/-Figma-5551FF.svg?logo=figma&style=flat)
+
+### プロジェクト管理
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat) ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat) ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)
+
+### 組版
+
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat) ![Overleaf](https://img.shields.io/badge/-Overleaf-BBDBB8.svg?logo=overleaf&style=flat)
 
 ### 開発手法
 
@@ -155,23 +174,15 @@
 
 ### その他
 
-- アプリケーションのビルド・デプロイフローの構築、運用
-  - Bitrise
-  - GitHub Actions
-- コミュニケーションツール
-  - Slack
-  - Google Chat
-- エディタ
-  - Visual Studio Code
-  - Vim, Neovim
-- プロジェクト管理
-  - Backlog
-- 組版
-  - LaTeX
-    - 卒業論文、修士論文の執筆に3年間利用
-- 基本的な操作は可能
-  - Git
-  - zsh, bash
+#### 開発
+
+![Git](https://img.shields.io/badge/-Git-FFFFFF.svg?logo=git&style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-FFFFFF.svg?logo=zsh&style=flat) ![Bash](https://img.shields.io/badge/-Bash-FFFFFF.svg?logo=gnubash&style=flat) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000.svg?logo=githubpages&style=flat)
+
+#### 事務作業
+
+![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=microsoftword&style=flat) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoftexcel&style=flat) ![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=microsoftpowerpoint&style=flat)
+![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat) ![Google Docs](https://img.shields.io/badge/-Google%20Meet-FCFCFC.svg?logo=googledocs&style=flat) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FCFCFC.svg?logo=googlesheets&style=flat) ![Google Slides](https://img.shields.io/badge/-Google%20Slides-FCFCFC.svg?logo=googleslides&style=flat)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googledrive&style=flat) ![Google Cloud](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googlecloud&style=flat)
 
 ## 資格
 

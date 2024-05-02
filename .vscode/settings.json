@@ -5,6 +5,7 @@
     "zawa-kyo",
     "bitrise",
     "OnsenUI",
+    "Vuex",
     "Neovim",
     "TOEIC",
     "tamaki",
@@ -16,6 +17,11 @@
     "Kamogawa",
     "kei",
     "photosensitizers",
-    "zenn"
+    "zenn",
+    "Riverpod",
+    "MVVM",
+    "Mathematica",
+    "GROWI",
+    "Redmine"
   ]
 }

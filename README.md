@@ -8,6 +8,7 @@
 | Name                                                                                    | 小澤 京平 (Kyohei Ozawa)                                          |
 | ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)       | [zawa-kyo](https://github.com/zawa-kyo)                           |
 | ![Zenn](https://img.shields.io/badge/-Zenn-FFF.svg?logo=zenn&style=flat)                | [kyo](https://zenn.dev/zawa_kyo)                                  |
+| ![Qiita](https://img.shields.io/badge/-Qiita-F7F7F7.svg?logo=qiita&style=flat)          | [Kyohei Ozawa](https://qiita.com/zawa-kyo)                        |
 | ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0C64C5.svg?logo=linkedin&style=flat) | [Kyohei Ozawa](https://www.linkedin.com/in/kyohei-ozawa/)         |
 | ![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat)          | [kyohei.ozawa.work@gmail.com](mailto:kyohei.ozawa.work@gmail.com) |
 <!-- markdownlint-enable MD033 -->

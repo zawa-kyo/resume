@@ -115,7 +115,7 @@
 
 #### プロダクションコードを書いた経験がある言語
 
-![Python](https://img.shields.io/badge/-Python-F7CB47.svg?logo=python&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-CDB22F.svg?logo=javascript&style=flat) ![Java](https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat) ![Dart](https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat) ![Swift](https://img.shields.io/badge/-Swift-F4F4F4.svg?logo=swift&style=flat) ![Objective-C](https://img.shields.io/badge/-Objective--C-000000.svg?logo=c&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-F5932B.svg?logo=html5&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
+![Python](https://img.shields.io/badge/-Python-E3C93C.svg?logo=python&style=flat) ![Java](https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat) ![Dart](https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-F5932B.svg?logo=html5&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-E6D211.svg?logo=javascript&style=flat) ![Swift](https://img.shields.io/badge/-Swift-F4F4F4.svg?logo=swift&style=flat) ![Objective-C](https://img.shields.io/badge/-Objective--C-000000.svg?logo=c&style=flat) ![C](https://img.shields.io/badge/-C-005697.svg?logo=c&style=flat)
 
 #### 学生時代に研究に利用した言語
 
@@ -127,7 +127,7 @@
 
 ### フレームワーク
 
-![Flutter](https://img.shields.io/badge/-Flutter-44D1FD.svg?logo=flutter&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat) ![Cordova](https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-1EB6F5.svg?logo=flutter&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat) ![Cordova](https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat)
 
 ### モニタリング・ロギング
 
@@ -135,19 +135,23 @@
 
 ### コンテナ仮想化
 
-![Docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat) ![Rancher Desktop](https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-F7F7F7.svg?logo=docker&style=flat) ![Rancher Desktop](https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat)
 
-### アプリケーションのビルド・デプロイフローの構築、運用
+### ビルド・デプロイフローの構築、運用
 
 ![Bitrise](https://img.shields.io/badge/-Bitrise-6A3B98.svg?logo=bitrise&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717.svg?logo=githubactions&style=flat)
+
+### API開発
+
+![Postman](https://img.shields.io/badge/-Postman-F7F7F7.svg?logo=postman&style=flat) ![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-517C37.svg?logo=swagger&style=flat)
 
 ### コミュニケーションツール
 
 ![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat) ![Google Chat](https://img.shields.io/badge/-Google%20Chat-00832D.svg?logo=googlechat&style=flat) ![Google Meet](https://img.shields.io/badge/-GoogleChat-00832D.svg?logo=googlemeet&style=flat) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat) ![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)
 
-### エディタ
+### エディタ、Wiki
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat) ![NeoVim](https://img.shields.io/badge/-NeoVim-3586C7.svg?logo=neovim&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat) ![NeoVim](https://img.shields.io/badge/-NeoVim-0460B1.svg?logo=neovim&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat) ![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat) ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat)
 
 ### プロジェクト管理
 
@@ -167,7 +171,6 @@
 ### その他
 
 ![Git](https://img.shields.io/badge/-Git-000000.svg?logo=git&style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-000000.svg?logo=zsh&style=flat) ![Bash](https://img.shields.io/badge/-Bash-000000.svg?logo=gnubash&style=flat)
-
 
 ## 資格
 

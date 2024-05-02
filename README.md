@@ -143,7 +143,7 @@
 
 ### コミュニケーションツール
 
-![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat) ![Google Chat](https://img.shields.io/badge/-Google%20Chat-5BB974.svg?logo=googlechat&style=flat) ![Google Meet](https://img.shields.io/badge/-GoogleChat-00832D.svg?logo=googlechat&style=flat) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat) ![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)
+![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat) ![Google Chat](https://img.shields.io/badge/-Google%20Chat-00832D.svg?logo=googlechat&style=flat) ![Google Meet](https://img.shields.io/badge/-GoogleChat-00832D.svg?logo=googlemeet&style=flat) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat) ![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)
 
 ### エディタ
 

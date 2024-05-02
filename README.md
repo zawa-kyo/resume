@@ -1,4 +1,4 @@
-# 職務経歴書
+# [職務経歴書](https://zawa-kyo.github.io/resume/)
 
 ## 基本情報
 
@@ -131,36 +131,55 @@
 
 #### プロダクションコードを書いた経験がある言語
 
-- Python
-- JavaScript
-- Java
-- Swift
-- Objective-C
-- HTML/CSS
-- Dart
+![Python](https://img.shields.io/badge/-Python-E3C93C.svg?logo=python&style=flat) ![Java](https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat) ![Dart](https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-F5932B.svg?logo=html5&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-E6D211.svg?logo=javascript&style=flat) ![Swift](https://img.shields.io/badge/-Swift-F4F4F4.svg?logo=swift&style=flat) ![Objective-C](https://img.shields.io/badge/-Objective--C-000000.svg?logo=c&style=flat) ![C](https://img.shields.io/badge/-C-005697.svg?logo=c&style=flat)
+
+#### 学生時代に研究に利用した言語
+
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat) ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100.svg?logo=wolframmathematica&style=flat) ![R](https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat) ![Igor Pro](https://img.shields.io/badge/-Igor%20Pro-7592D1.svg?logo=&style=flat)
 
 #### プライベートで書いている言語
 
-- Rust
-- TypeScript
+![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat) ![TypeScript](https://img.shields.io/badge/-Typescript-DAECF6.svg?logo=typescript&style=flat)
 
 ### フレームワーク
 
-- Apache Cordova
-- Vue.js
-- OnsenUI
-- Node.js
-- Flutter
+![Flutter](https://img.shields.io/badge/-Flutter-1EB6F5.svg?logo=flutter&style=flat) ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat) ![Cordova](https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat)
 
 ### モニタリング・ロギング
 
-- Sentry
+![Sentry](https://img.shields.io/badge/-Sentry-C43A5D.svg?logo=sentry&style=flat) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FFC107.svg?logo=google-analytics&style=flat) ![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-D10C01.svg?logo=adobe&style=flat)
 
 ### コンテナ仮想化
 
-- Docker
-  - 日常的に使用
-- rancher-desktop
+![Docker](https://img.shields.io/badge/-Docker-F7F7F7.svg?logo=docker&style=flat) ![Rancher Desktop](https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat)
+
+### ビルド・デプロイフローの構築、運用
+
+![Bitrise](https://img.shields.io/badge/-Bitrise-6A3B98.svg?logo=bitrise&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717.svg?logo=githubactions&style=flat)
+
+### クラウド
+<!-- TODO: Change Amazon AWS to Amazon Web Services (v12.0.0)-->
+![Firebase](https://img.shields.io/badge/-Firebase-1A73E8.svg?logo=firebase&style=flat) ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws&style=flat)
+
+### API開発
+
+![Postman](https://img.shields.io/badge/-Postman-F7F7F7.svg?logo=postman&style=flat) ![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) ![Swagger](https://img.shields.io/badge/-Swagger-517C37.svg?logo=swagger&style=flat)
+
+### コミュニケーションツール
+
+![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat) ![Google Chat](https://img.shields.io/badge/-Google%20Chat-00832D.svg?logo=googlechat&style=flat) ![Google Hangouts](https://img.shields.io/badge/-Google%20Hangouts-00832D.svg?logo=googlehangouts&style=flat) ![Google Meet](https://img.shields.io/badge/-Google%20Meet-00832D.svg?logo=googlemeet&style=flat) ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat) ![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)
+
+### エディタ、デザイン、Wiki作成
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-4283F6.svg?logo=androidstudio&style=flat) ![RStudio](https://img.shields.io/badge/-RStudio-FFF.svg?logo=rstudio&style=flat) ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat) ![NeoVim](https://img.shields.io/badge/-NeoVim-0460B1.svg?logo=neovim&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat) ![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat) ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat) ![Miro](https://img.shields.io/badge/-Miro-F7CA2E.svg?logo=miro&style=flat) ![Figma](https://img.shields.io/badge/-Figma-5551FF.svg?logo=figma&style=flat)
+
+### プロジェクト管理
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat) ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat) ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)
+
+### 組版
+
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat) ![Overleaf](https://img.shields.io/badge/-Overleaf-BBDBB8.svg?logo=overleaf&style=flat)
 
 ### 開発手法
 
@@ -171,28 +190,26 @@
 
 ### その他
 
-- アプリケーションのビルド・デプロイフローの構築、運用
-  - Bitrise
-  - GitHub Actions
-- コミュニケーションツール
-  - Slack
-- エディタ
-  - Visual Studio Code
-  - Vim, Neovim
-- 基本的な操作は可能
-  - Git
-  - zsh, bash
+#### 開発
+
+![Git](https://img.shields.io/badge/-Git-FFFFFF.svg?logo=git&style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-FFFFFF.svg?logo=zsh&style=flat) ![Bash](https://img.shields.io/badge/-Bash-FFFFFF.svg?logo=gnubash&style=flat) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000.svg?logo=githubpages&style=flat)
+
+#### 事務作業
+
+![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=microsoftword&style=flat) ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoftexcel&style=flat) ![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=microsoftpowerpoint&style=flat)
+![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat) ![Google Docs](https://img.shields.io/badge/-Google%20Meet-FCFCFC.svg?logo=googledocs&style=flat) ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FCFCFC.svg?logo=googlesheets&style=flat) ![Google Slides](https://img.shields.io/badge/-Google%20Slides-FCFCFC.svg?logo=googleslides&style=flat)
+![Google Drive](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googledrive&style=flat) ![Google Cloud](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googlecloud&style=flat)
 
 ## 資格
 
-| Date    | Certification                                  | Certificate          |
+| Date    | Qualification                                  | Certificate          |
 | ------- | ---------------------------------------------- | -------------------- |
 | 2015/9  | 普通自動車第一種運転免許                       |                      |
 | 2016/9  | TOEIC® Listening & Reading Test: 725           |                      |
 | 2023/3  | Oracle Certified Java Programmer, Silver SE 11 | 認定番号 444660399   |
 | 2023/5  | Oracle Certified Java Programmer, Gold SE 11   | 認定番号 450474905   |
-| 2023/8  | 基本情報処理技術者                             | 第FE-2023-07-02729号 |
-| 2023/11 | 応用情報処理技術者                             | 第AP-2023-10-02752号 |
+| 2023/8  | 基本情報技術者                                 | 第FE-2023-07-02729号 |
+| 2023/12 | 応用情報技術者                                 | 第AP-2023-10-02752号 |
 
 ## 技術記事発信
 
@@ -218,11 +235,11 @@
 
 #### 学会発表等
 
-- 2019/03 日本化学会 第99春季年会 ポスター発表『錯体の一電子還元過程についての検討』
-- 2019/06 第40回 光化学若手の会 ポスター発表『光増感錯体の一電子還元種生成過程の検討』
-- 2019/08 第31回 配位化合物の光化学討論会 口頭発表『光電子移動反応における光増感錯体の1電子還種生成効率を決定する要因』
-- 2019/09 2019年 光化学討論会 ポスター発表『Investigation of quantum yields for photo-induced electron transfer processes of metal-complex photosensitizers』
-- 2019/12 第2回 ソフトクリスタル・革新的光-物質変換合同若手研究者育成シンポジウム 口頭発表『光増感錯体の光誘起電子移動による一電子還元種生成過程の検討』
+- 小澤京平、玉置悠祐、小池和英、中川達夫、石谷治、"錯体の一電子還元過程についての検討"、日本化学会 第99春季年会、2019.3、兵庫、ポスター発表
+- 小澤京平、玉置悠祐、小池和英、石谷治、"光増感錯体の一電子還元種生成過程の検討"、第40回 光化学若手の会、2019.6、東京、口頭発表
+- 小澤京平、玉置悠祐、小池和英、石谷治、"光電子移動反応における光増感錯体の1電子還種生成効率を決定する要因"、第31回 配位化合物の光化学討論会、2019.08、富山、口頭発表
+- OZAWA, Kyohei; TAMAKI, Yusuke; KOIKE, Kazuhide; ISHITANI, Osamu; "Investigation of quantum yields for photo-induced electron transfer processes of metal-complex photosensitizers", 光化学討論会、2019.09、名古屋、ポスター発表
+- 小澤京平、玉置悠祐、小池和英、石谷治、"光増感錯体の光誘起電子移動による一電子還元種生成過程の検討"、第2回 ソフトクリスタル・革新的光-物質変換合同若手研究者育成シンポジウム、2019.11、北海道、口頭発表
 
 #### 受賞
 

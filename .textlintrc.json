@@ -28,9 +28,6 @@
       ]
     },
     "ja-unnatural-alphabet": true,
-    "max-comma": {
-      "max": 4
-    },
     "max-ten": true,
     "no-doubled-conjunction": true,
     "no-doubled-conjunctive-particle-ga": true,

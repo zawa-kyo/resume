@@ -117,6 +117,10 @@
 
 ![Python](https://img.shields.io/badge/-Python-F7CB47.svg?logo=python&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-CDB22F.svg?logo=javascript&style=flat) ![Java](https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat) ![Dart](https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat) ![Swift](https://img.shields.io/badge/-Swift-F4F4F4.svg?logo=swift&style=flat) ![Objective-C](https://img.shields.io/badge/-ObjectiveC-000000.svg?logo=c&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat)
 
+#### 学生時代に研究に利用した言語
+
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat) ![Mathematica](https://img.shields.io/badge/-Mathematica-DD1100.svg?logo=wolframmathematica&style=flat) ![R](https://img.shields.io/badge/-R-276DC3.svg?logo=r&style=flat) ![Igor Pro](https://img.shields.io/badge/-Igor%20Pro-7592D1.svg?logo=&style=flat)
+
 #### プライベートで書いている言語
 
 ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat) ![TypeScript](https://img.shields.io/badge/-Typescript-DAECF6.svg?logo=typescript&style=flat)

@@ -115,36 +115,37 @@
 
 #### プロダクションコードを書いた経験がある言語
 
-- Python
-- JavaScript
-- Java
-- Swift
-- Objective-C
-- HTML/CSS
-- Dart
+- <img src="https://img.shields.io/badge/-Python-F7CB47.svg?logo=python&style=flat">
+- <img src="https://img.shields.io/badge/-JavaScript-CDB22F.svg?logo=javascript&style=flat">
+- <img src="https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat">
+- <img src="https://img.shields.io/badge/-Swift-F4F4F4.svg?logo=swift&style=flat">
+- <img src="https://img.shields.io/badge/-ObjectiveC-000000.svg?logo=c&style=flat">
+- <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
+- <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+- <img src="https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat">
+- <img src="https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat">
+- <img src="https://img.shields.io/badge/-Markown-000000.svg?logo=markdown&style=flat">
 
 #### プライベートで書いている言語
 
-- Rust
-- TypeScript
+- <img src="https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat">
+- <img src="https://img.shields.io/badge/-Typescript-DAECF6.svg?logo=typescript&style=flat">
 
 ### フレームワーク
 
-- Apache Cordova
-- Vue.js
-- OnsenUI
-- Flutter
-- SwiftUI
+- <img src="https://img.shields.io/badge/-Flutter-44D1FD.svg?logo=flutter&style=flat">
+- <img src="https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat">
+- <img src="https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat">
 
 ### モニタリング・ロギング
 
-- Sentry
+- <img src="https://img.shields.io/badge/-Sentry-C43A5D.svg?logo=sentry&style=flat">
+- <img src="https://img.shields.io/badge/-Google%20analytics-FFC107.svg?logo=google-analytics&style=flat">
 
 ### コンテナ仮想化
 
-- Docker
-  - 日常的に使用
-- rancher-desktop
+- <img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+- <img src="https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat">
 
 ### 開発手法
 
@@ -156,22 +157,24 @@
 ### その他
 
 - アプリケーションのビルド・デプロイフローの構築、運用
-  - Bitrise
-  - GitHub Actions
+  - <img src="https://img.shields.io/badge/-Bitrise-6A3B98.svg?logo=bitrise&style=flat">
+  - <img src="https://img.shields.io/badge/-GitHub%20Actions-181717.svg?logo=githubactions&style=flat">
 - コミュニケーションツール
-  - Slack
-  - Google Chat
+  - <img src="https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat">
+  - <img src="https://img.shields.io/badge/-GoogleChat-5BB974.svg?logo=googlechat&style=flat">
 - エディタ
-  - Visual Studio Code
-  - Vim, Neovim
+  - <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat">
+  - <img src="https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat">
+  - <img src="https://img.shields.io/badge/-NeoVim-3586C7.svg?logo=neovim&style=flat">
 - プロジェクト管理
-  - Backlog
+  - <img src="https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat">
+  - <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 - 組版
-  - LaTeX
-    - 卒業論文、修士論文の執筆に3年間利用
+  - <img src="https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat">
 - 基本的な操作は可能
-  - Git
-  - zsh, bash
+  - <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=flat">
+  - <img src="https://img.shields.io/badge/-Zsh-000000.svg?logo=zsh&style=flat">
+  - <img src="https://img.shields.io/badge/-Bash-000000.svg?logo=gnubash&style=flat">
 
 ## 資格
 

@@ -149,17 +149,13 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat) ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat) ![NeoVim](https://img.shields.io/badge/-NeoVim-3586C7.svg?logo=neovim&style=flat) ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat)
 
-#### プロジェクト管理
+### プロジェクト管理
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat) ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat) ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)
 
-#### 組版
+### 組版
 
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat) ![Overleaf](https://img.shields.io/badge/-Overleaf-BBDBB8.svg?logo=overleaf&style=flat)
-
-#### その他
-
-![Git](https://img.shields.io/badge/-Git-000000.svg?logo=git&style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-000000.svg?logo=zsh&style=flat) ![Bash](https://img.shields.io/badge/-Bash-000000.svg?logo=gnubash&style=flat)
 
 ### 開発手法
 
@@ -167,6 +163,11 @@
   - 開発経験2年
 - アジャイル開発
   - スクラムチームでの開発経験2年以上
+
+### その他
+
+![Git](https://img.shields.io/badge/-Git-000000.svg?logo=git&style=flat) ![Zsh](https://img.shields.io/badge/-Zsh-000000.svg?logo=zsh&style=flat) ![Bash](https://img.shields.io/badge/-Bash-000000.svg?logo=gnubash&style=flat)
+
 
 ## 資格
 

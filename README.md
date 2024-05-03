@@ -184,25 +184,26 @@
 
 ### コンテナ仮想化
 
-| Item                                                                                                   | Detail |
-| ------------------------------------------------------------------------------------------------------ | ------ |
-| ![Docker](https://img.shields.io/badge/-Docker-F7F7F7.svg?logo=docker&style=flat)                      |        |
-| ![Rancher Desktop](https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat) |        |
+| Item                                                                                                   | Detail                                                                                 |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
+| ![Docker](https://img.shields.io/badge/-Docker-F7F7F7.svg?logo=docker&style=flat)                      | 個人開発で中心的に利用 (2年以上)                                                       |
+| ![Rancher Desktop](https://img.shields.io/badge/-Rancher%20Desktop-0075A8.svg?logo=rancher&style=flat) | Docker Desktopの商用利用には制限が課されるため、業務ではこちらを中心的に利用 (2年以上) |
 
-### ビルド・デプロイフローの構築、運用
+### CI/CD
 
-| Item                                                                                                       | Detail |
-| ---------------------------------------------------------------------------------------------------------- | ------ |
-| ![Bitrise](https://img.shields.io/badge/-Bitrise-6A3B98.svg?logo=bitrise&style=flat)                       |        |
-| ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717.svg?logo=githubactions&style=flat) |        |
+| Item                                                                                                       | Detail                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![Bitrise](https://img.shields.io/badge/-Bitrise-6A3B98.svg?logo=bitrise&style=flat)                       | モバイルアプリ開発業務でユニットテスト実行、デプロイ自動化に利用 (3年以上)<br>ワークフローの開発/保守業務を主導 (2年以上) |
+| ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-181717.svg?logo=githubactions&style=flat) | 個人開発におけるユニットテスト実行、デプロイ自動化に利用 (半年以上)                                                       |
 
 ### クラウド
 <!-- TODO: Change Amazon AWS to Amazon Web Services (v12.0.0)-->
 
-| Item                                                                                                                                                                                     | Detail |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Firebase](https://img.shields.io/badge/-Firebase-1A73E8.svg?logo=firebase&style=flat)                                                                                                  |        |
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws&style=flat) <br> ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-FCFCFC.svg?logo=googlecloud&style=flat) |        |
+| Item                                                                                                 | Detail                                                                                                                                                                                                                                   |
+| ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws&style=flat)                       | 業務/個人開発で日常的に利用 (4年以上)<br>業務では補佐のみ、個人開発では簡単なAPIを実装できる程度<br>次のオンライントレーニングを受講済み<ul><li>AWS Technical Essentials</li><li>Developing on AWS</li><li>Architecting on AWS</li></ul> |
+| ![Firebase](https://img.shields.io/badge/-Firebase-1A73E8.svg?logo=firebase&style=flat)              | モバイルアプリ開発においてFirebase Cloud Messagingによるプッシュ通知に利用 (1年以上)<br>ゼロから環境を構築したことはなく、調査、補佐業務を担当                                                                                           |
+| ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-FCFCFC.svg?logo=googlecloud&style=flat) | モバイルアプリ開発におけるOAuthに利用、補佐のみ (半年未満)                                                                                                                                                                               |
 
 ### API開発
 
@@ -222,31 +223,32 @@
 
 ### エディタ、デザイン、Wiki作成
 
-| Item                                                                                                                                                                          | Detail |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)                                                     |        |
-| ![Android Studio](https://img.shields.io/badge/-Android%20Studio-4283F6.svg?logo=androidstudio&style=flat)                                                                    |        |
-| ![RStudio](https://img.shields.io/badge/-RStudio-FFF.svg?logo=rstudio&style=flat)                                                                                             |        |
-| ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat)<br>![NeoVim](https://img.shields.io/badge/-NeoVim-0460B1.svg?logo=neovim&style=flat)                 |        |
-| ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat)<br>![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat) |        |
-| ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat)                                                                                                     |        |
-| ![Miro](https://img.shields.io/badge/-Miro-F7CA2E.svg?logo=miro&style=flat)                                                                                                   |        |
-| ![Figma](https://img.shields.io/badge/-Figma-5551FF.svg?logo=figma&style=flat)                                                                                                |        |
+| Item                                                                                                                                                                          | Detail                                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=flat)                                                     | 業務/個人開発で中心的に利用 (5年以上)<br>個人開発ではdevcontainerによるコンテナ化を積極的に利用                                                              |
+| ![Android Studio](https://img.shields.io/badge/-Android%20Studio-4283F6.svg?logo=androidstudio&style=flat)                                                                    | Androidアプリ開発に補助的に利用 (5年以上)                                                                                                                    |
+| ![RStudio](https://img.shields.io/badge/-RStudio-FFF.svg?logo=rstudio&style=flat)                                                                                             | 学生時代、R言語による実験データ解析に日常的に利用 (3年以上)                                                                                                  |
+| ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat)<br>![NeoVim](https://img.shields.io/badge/-NeoVim-0460B1.svg?logo=neovim&style=flat)                 | VSCodeの拡張機能 [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) を通じて日常的にNeoVimを利用 (2年以上)<br>純粋なVimは最低限を操作できる程度 |
+| ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat)<br>![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat) | 個人/業務メモの蓄積に日常的に利用 (4年以上)                                                                                                                  |
+| ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat)<br>![CodiMD](https://img.shields.io/badge/-CodiMD-000.svg?logo=&style=flat)                         | 業務でのナレッジ集積に日常的に利用 (4年以上)<br>主にGROWI、補助してCodiMDを使用、共同編集機能が業務上の魅力                                                  |
+| ![Miro](https://img.shields.io/badge/-Miro-F7CA2E.svg?logo=miro&style=flat)                                                                                                   | スクラム開発におけるユーザーストーリーマッピング、モバイルアプリ開発におけるワイヤーフレーム作成に利用 (1年以上)                                             |
+| ![Figma](https://img.shields.io/badge/-Figma-5551FF.svg?logo=figma&style=flat)                                                                                                | モバイルアプリ開発におけるデザイン共有に利用 (4年以上)                                                                                                       |
 
-### プロジェクト管理
+### プロジェクト/ソースコード管理
 
-| Item                                                                                 | Detail |
-| ------------------------------------------------------------------------------------ | ------ |
-| ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)    |        |
-| ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)        |        |
-| ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat) |        |
+| Item                                                                                                                                                                            | Detail                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)                                                                                               | 個人開発に利用 (4年以上)                                             |
+| ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)                                                                                                   | 業務のタスク管理とソースコードの差分管理として中心的に利用 (4年以上) |
+| ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC.svg?logo=bitbucket&style=flat)<br>![GitLab](https://img.shields.io/badge/-GitLab-FC6D26.svg?logo=gitlab&style=flat) | 業務のソースコード管理として部分的に利用 (半年以上)                  |
+| ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat)                                                                                            | 業務のタスク管理として一時利用 (半年未満)                            |
 
 ### 組版
 
-| Item                                                                                                                                                                      | Detail |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat)                                                                                            |        |
-| ![Overleaf](https://img.shields.io/badge/-Overleaf-BBDBB8.svg?logo=overleaf&style=flat)<br>![Typst](https://img.shields.io/badge/-Typst-15C6BA.svg?logo=typst&style=flat) |        |
+| Item                                                                                                                                                                      | Detail                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| ![LaTeX](https://img.shields.io/badge/-LaTeX-008080.svg?logo=latex&style=flat)                                                                                            | 卒業論文、修士論文やレポートの執筆に利用 (5年以上)            |
+| ![Overleaf](https://img.shields.io/badge/-Overleaf-BBDBB8.svg?logo=overleaf&style=flat)<br>![Typst](https://img.shields.io/badge/-Typst-15C6BA.svg?logo=typst&style=flat) | LaTeXからの移行先として個人的なドキュメント作成に利用 (1年弱) |
 
 ### 開発手法
 
@@ -259,19 +261,18 @@
 
 #### 開発
 
-| Item                                                                                                                                                       | Detail |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Git](https://img.shields.io/badge/-Git-FFFFFF.svg?logo=git&style=flat)                                                                                   |        |
-| ![Zsh](https://img.shields.io/badge/-Zsh-FFFFFF.svg?logo=zsh&style=flat)<br>![Bash](https://img.shields.io/badge/-Bash-FFFFFF.svg?logo=gnubash&style=flat) |        |
-| ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000.svg?logo=githubpages&style=flat)                                                       |        |
+| Item                                                                                                                                                       | Detail                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| ![Git](https://img.shields.io/badge/-Git-FFFFFF.svg?logo=git&style=flat)                                                                                   | ソースコードの差分管理に利用 (5年以上)                      |
+| ![Zsh](https://img.shields.io/badge/-Zsh-FFFFFF.svg?logo=zsh&style=flat)<br>![Bash](https://img.shields.io/badge/-Bash-FFFFFF.svg?logo=gnubash&style=flat) | 日常的に利用 (5年以上)<br>ZshがメインでBashは必要な場合のみ |
+| ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000.svg?logo=githubpages&style=flat)                                                       | 職務経歴書のホスティングに利用<br>簡単な操作のみ経験        |
 
 #### 事務作業
 
-| Item                                                                                                                                                                                                                                                                                                                                                                                                      | Detail |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=microsoftword&style=flat)<br>![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoftexcel&style=flat)<br>![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=microsoftpowerpoint&style=flat)                                               |        |
-| ![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat)<br>![Google Docs](https://img.shields.io/badge/-Google%20Meet-FCFCFC.svg?logo=googledocs&style=flat)<br>![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FCFCFC.svg?logo=googlesheets&style=flat)<br>![Google Slides](https://img.shields.io/badge/-Google%20Slides-FCFCFC.svg?logo=googleslides&style=flat) |        |
-| ![Google Drive](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googledrive&style=flat)                                                                                                                                                                                                                                                                                                      |        |
+| Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Detail                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=microsoftword&style=flat)<br>![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoftexcel&style=flat)<br>![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=microsoftpowerpoint&style=flat)                                                                                                                                                                                                                                                                        | 日常的な業務、研究に利用 (10年以上) |
+| ![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat)<br>![Google Docs](https://img.shields.io/badge/-Google%20Docs-FCFCFC.svg?logo=googledocs&style=flat)<br>![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FCFCFC.svg?logo=googlesheets&style=flat)<br>![Google Slides](https://img.shields.io/badge/-Google%20Slides-FCFCFC.svg?logo=googleslides&style=flat)<br>![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-FCFCFC.svg?logo=googlecalendar&style=flat)<br>![Google Drive](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googledrive&style=flat) | 日常的な業務に利用 (4年以上)        |
 <!-- markdownlint-enable MD013 -->
 <!-- markdownlint-enable MD033 -->
 

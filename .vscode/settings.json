@@ -20,8 +20,15 @@
     "zenn",
     "Riverpod",
     "MVVM",
+    "Matplotlib",
+    "plotly",
     "Mathematica",
     "GROWI",
-    "Redmine"
+    "Redmine",
+    "Qiita",
+    "Typst",
+    "CodiMD",
+    "Architecting",
+    "devcontainer"
   ]
 }

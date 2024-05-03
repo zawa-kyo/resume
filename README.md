@@ -261,11 +261,12 @@
 
 #### 開発
 
-| Item                                                                                                                                                       | Detail                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| ![Git](https://img.shields.io/badge/-Git-FFFFFF.svg?logo=git&style=flat)                                                                                   | ソースコードの差分管理に利用 (5年以上)                      |
-| ![Zsh](https://img.shields.io/badge/-Zsh-FFFFFF.svg?logo=zsh&style=flat)<br>![Bash](https://img.shields.io/badge/-Bash-FFFFFF.svg?logo=gnubash&style=flat) | 日常的に利用 (5年以上)<br>ZshがメインでBashは必要な場合のみ |
-| ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000.svg?logo=githubpages&style=flat)                                                       | 職務経歴書のホスティングに利用<br>簡単な操作のみ経験        |
+| Item                                                                                                                                                             | Detail                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ![Git](https://img.shields.io/badge/-Git-FFF.svg?logo=git&style=flat)                                                                                            | ソースコードの差分管理に利用 (5年以上)<br>ブランチ運用はgit-flowが中心 |
+| ![Zsh](https://img.shields.io/badge/-Zsh-FFF.svg?logo=zsh&style=flat)<br>![Bash](https://img.shields.io/badge/-Bash-FFFFFF.svg?logo=gnubash&style=flat)          | 日常的に利用 (5年以上)<br>ZshがメインでBashは必要な場合のみ            |
+| ![iTerm2](https://img.shields.io/badge/-iTerm2-1C1C1C.svg?logo=iterm2&style=flat)<br>![Warp](https://img.shields.io/badge/-Warp-1C1C1C.svg?logo=warp&style=flat) | ターミナルとして日常的に利用 (3年以上)                                 |
+| ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000000.svg?logo=githubpages&style=flat)                                                             | 職務経歴書のホスティングに利用<br>簡単な操作のみ経験                   |
 
 #### 事務作業
 

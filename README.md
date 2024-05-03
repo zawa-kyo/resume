@@ -161,26 +161,25 @@
 
 #### プライベートで書いている言語
 
-| Item                                                                                          | Detail |
-| --------------------------------------------------------------------------------------------- | ------ |
-| ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)                   |        |
-| ![TypeScript](https://img.shields.io/badge/-Typescript-DAECF6.svg?logo=typescript&style=flat) |        |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-F0850B.svg?logo=kotlin&style=flat)             |        |
+| Item                                                                                                                                                                         | Detail                                                                 |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)<br>![TypeScript](https://img.shields.io/badge/-Typescript-DAECF6.svg?logo=typescript&style=flat) | モダンな開発言語として勉強中<br>学習の一環としてライブラリ開発を模索中 |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-F0850B.svg?logo=kotlin&style=flat)                                                                                            | Androidのネイティブアプリ開発の一環として学習中                        |
 
 ### フレームワーク
 
-| Item                                                                                                                                                                            | Detail |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Flutter](https://img.shields.io/badge/-Flutter-1EB6F5.svg?logo=flutter&style=flat)                                                                                            |        |
-| ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat)<br>![Cordova](https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat) |        |
-| ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat)                                                                                              |        |
+| Item                                                                                                                                                                            | Detail                                                                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E.svg?logo=vue.js&style=flat)<br>![Cordova](https://img.shields.io/badge/-Cordova-717B84.svg?logo=apachecordova&style=flat) | モバイルアプリ開発を立ち上げから保守まで経験 (4年弱)<br> CordovaフレームワークではiOS/Androidのネイティブ機能にアクセスするプラグイン開発を主導 (2年以上)<br>Vue.jsでは状態管理にVuexを利用し、アプリ全体の設計業務からコーディング、保守までを担当(2年以上) |
+| ![Flutter](https://img.shields.io/badge/-Flutter-1EB6F5.svg?logo=flutter&style=flat)                                                                                            | モバイルアプリ開発の立ち上げと一部経験 (半年)<br>UI開発、サーバ通信、iOS/Android端末におけるネイティブ機能へのアクセスなどを設計からコーディングまで担当                                                                                                     |
+| ![SwiftUI](https://img.shields.io/badge/-SwiftUI-F4F4F4.svg?logo=swift&style=flat)                                                                                              | ネイティブアプリの開発として利用 (数ヶ月) <br>株式会社カサレアルが開催するiOSアプリの研修に参加、Swiftと共に基本的系な事項は把握している程度                                                                                                                 |
 
 ### モニタリング・ロギング
 
-| Item                                                                                                                                                                                                                      | Detail |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Sentry](https://img.shields.io/badge/-Sentry-C43A5D.svg?logo=sentry&style=flat)                                                                                                                                         |        |
-| ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FFC107.svg?logo=google-analytics&style=flat)<br>![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-D10C01.svg?logo=adobe&style=flat) |        |
+| Item                                                                                                                                                                                                                      | Detail                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| ![Sentry](https://img.shields.io/badge/-Sentry-C43A5D.svg?logo=sentry&style=flat)                                                                                                                                         | モバイルアプリ開発において市場モニタリングに利用 (3年以上)<br>ログ出力設計、実装、保守を主導 (1年以上) |
+| ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FFC107.svg?logo=google-analytics&style=flat)<br>![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-D10C01.svg?logo=adobe&style=flat) | モバイルアプリ開発や技術ブログのアクセス解析に補助的に利用 (1年以上)                                   |
 
 ### コンテナ仮想化
 
@@ -207,19 +206,19 @@
 
 ### API開発
 
-| Item                                                                                                                                                                            | Detail |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| ![Postman](https://img.shields.io/badge/-Postman-F7F7F7.svg?logo=postman&style=flat)<br>![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) |        |
-| ![Swagger](https://img.shields.io/badge/-Swagger-517C37.svg?logo=swagger&style=flat)                                                                                            |        |
+| Item                                                                                                                                                                            | Detail                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| ![Postman](https://img.shields.io/badge/-Postman-F7F7F7.svg?logo=postman&style=flat)<br>![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) | 業務/個人開発においてAPIテスト、デバッグに利用<br>業務ではInsomniaを中心的に利用 |
+| ![Swagger](https://img.shields.io/badge/-Swagger-517C37.svg?logo=swagger&style=flat)                                                                                            | APIドキュメントの作成/参照に利用 (4年以上)                                       |
 
 ### コミュニケーションツール
 
-| Item                                                                                                                                                                                                               | Detail |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
-| ![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat)                                                                                                                                     |        |
-| ![Google Chat](https://img.shields.io/badge/-Google%20Chat-00832D.svg?logo=googlechat&style=flat)<br>![Google Hangouts](https://img.shields.io/badge/-Google%20Hangouts-00832D.svg?logo=googlehangouts&style=flat) |        |
-| ![Google Meet](https://img.shields.io/badge/-Google%20Meet-00832D.svg?logo=googlemeet&style=flat)                                                                                                                  |        |
-| ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat)<br>![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)                       |        |
+| Item                                                                                                                                                                                                               | Detail                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| ![Slack](https://img.shields.io/badge/-Slack-4A154B.svg?logo=slack&style=flat)                                                                                                                                     | チームコミュニケーションツールとして中心的に業務利用 (4年以上)<br>併せてナレッジの蓄積を目的としても積極的に利用 |
+| ![Google Chat](https://img.shields.io/badge/-Google%20Chat-00832D.svg?logo=googlechat&style=flat)<br>![Google Hangouts](https://img.shields.io/badge/-Google%20Hangouts-00832D.svg?logo=googlehangouts&style=flat) | Slackが整備されていない他部署とのコミュニケーションに時折利用 (4年以上)                                          |
+| ![Google Meet](https://img.shields.io/badge/-Google%20Meet-00832D.svg?logo=googlemeet&style=flat)                                                                                                                  | 社内オンライン会議に中心的に利用 (4年以上)                                                                       |
+| ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-401F96.svg?logo=microsoftteams&style=flat)<br>![Zoom](https://img.shields.io/badge/-Zoom-2788F6.svg?logo=zoom&style=flat)                       | 社外との打ち合わせに時折利用 (4年以上)                                                                           |
 
 ### エディタ、デザイン、Wiki作成
 

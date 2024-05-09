@@ -3,7 +3,13 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "lint": "textlint . && markdownlint ./README.md"
+    "lint": "textlint . && markdownlint ./README.md",
+    "generate-css": "cat node_modules/github-markdown-css/github-markdown-light.css > style.css",
+    "remove-markdown-classes": "sed -i '' 's/\\.markdown-//g' style.css",
+    "generate-pdf": "bun x md-to-pdf ./README.md --stylesheet style.css",
+    "prepare-css": "bun run generate-css && bun run remove-markdown-classes",
+    "prebuild-pdf": "[ -f style.css ] || touch style.css",
+    "build-pdf": "bun run prepare-css && bun run generate-pdf && rm style.css"
   },
   "devDependencies": {
     "@proofdict/textlint-rule-proofdict": "^3.1.2",
@@ -45,5 +51,9 @@
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "github-markdown-css": "^5.5.1",
+    "md-to-pdf": "^5.2.4"
   }
 }

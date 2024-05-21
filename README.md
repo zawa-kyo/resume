@@ -78,15 +78,15 @@
   - Python を活用した大規模なセンサーデータ解析を実施
     - ライブラリとして NumPy, pandas, Matplotlib を利用
     - 解析結果から運動状態を判別するアルゴリズムを考案
-  - ソフトウェアエンジニア募集を目的としたインターンシップに講師として参加
-    - モバイルアプリケーションのフレームワークや開発プロセスを概説
-    - その一環として Flutter の開発も一部経験
 
 - **ウォーキング計測サービス立ち上げ、既存プロダクトの機能追加、保守 (2021年4月～2023年9月)**
   - 引き続きモバイルアプリケーション開発を担当。開発内容は主にセンサーデータ処理や Bluetooth 通信処理の保守など
   - 新規機能に関するステークホルダーとの仕様策定、調整
   - テストベンダーへの依頼、テスト設計書作成、テスト結果集約
   - ユーザー問い合わせ、市場不具合対応、OSS ライセンス管理
+  - ソフトウェアエンジニア募集を目的としたインターンシップに講師として参加
+    - モバイルアプリケーションのフレームワークや開発プロセスを概説
+    - その一環として Flutter の開発も一部経験
 
 - **機能追加、保守 (2023年10月～2024年01月)**
   - モバイルアプリケーション開発チームのマネージャー、スクラム開発におけるプロダクトオーナーを兼任
@@ -137,8 +137,8 @@
 
 - Flutter を用いたモバイルアプリケーションの設計とコーディング
   - アーキテクチャは MVVM, 状態管理には Riverpod を利用
+- UI 実装、およびサーバ通信処理を実装
 - LottieFiles を使用したアニメーションの実装
-- 入力フォームを伴う画面の UI 実装、およびサーバ通信処理の実装
 - Bluetooth 機能利用を目的としたシステム権限処理の設計、実装
 
 ##### 主な貢献・自身の創意工夫
@@ -283,7 +283,7 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | ![Git](https://img.shields.io/badge/-Git-3B2C00.svg?logo=git&style=flat)                                                                                                                                                                                                                                                       | ソースコードの差分管理に利用 (5年以上)<br>ブランチ運用は git-flow が中心 |
 | ![Zsh](https://img.shields.io/badge/-Zsh-181717.svg?logo=zsh&style=flat)<br>![Bash](https://img.shields.io/badge/-Bash-181717.svg?logo=gnubash&style=flat)                                                                                                                                                                     | 日常的に利用 (5年以上)<br>Zsh がメインで Bash は必要な場合のみ           |
-| ![iTerm2](https://img.shields.io/badge/-iTerm2-181717.svg?logo=iterm2&style=flat)<br>![Warp](https://img.shields.io/badge/-Warp-181717.svg?logo=warp&style=flat)                                                                                                                                                               | ターミナルエミュレータとして日常的に利用 (3年以上)                       |
+| ![iTerm2](https://img.shields.io/badge/-iTerm2-181717.svg?logo=iterm2&logoColor=0CEA26&style=flat)<br>![Warp](https://img.shields.io/badge/-Warp-181717.svg?logo=warp&style=flat)<br>![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE.svg?logo=wezterm&style=flat)                                                      | ターミナルエミュレータとして日常的に利用 (3年以上)                       |
 | ![ChatGPT](https://img.shields.io/badge/-ChatGPT-70A597.svg?logo=openai&style=flat)<br>![Azure OpenAI Service](https://img.shields.io/badge/-Azure%20OpenAI%20Service-0070E5.svg?logo=microsoftazure&style=flat)<br>![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-181717.svg?logo=githubcopilot&style=flat) | コーディングの補助に利用 (1年以上)                                       |
 | ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717.svg?logo=githubpages&style=flat)                                                                                                                                                                                                                           | 職務経歴書のホスティングに利用 (半年未満)<br>簡単な操作のみ経験          |
 

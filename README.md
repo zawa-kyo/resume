@@ -320,6 +320,7 @@
 - [Zenn](https://zenn.dev/zawa_kyo)
 - [カシオ計算機株式会社 note](https://note-pr.casio.co.jp/)
   - [応用情報技術者試験 受けてきました！](https://note-pr.casio.co.jp/n/nfea9ce8391e7)
+  - [Google PixelでAndroid OSをダウングレードする](https://note-pr.casio.co.jp/n/n7f185fede72a)
 
 ## 学歴/研究
 

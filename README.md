@@ -39,7 +39,7 @@
 
 ## 職務経歴
 
-### 2020年4月～現在 カシオ計算機株式会社
+### 2020年4月～2024年6月 カシオ計算機株式会社
 
 | Key                 | Value                             |
 | ------------------- | --------------------------------- |
@@ -110,7 +110,7 @@
 - 2023年10月からチームの再編成によりモバイルアプリケーション開発チームのマネージャー業務、スクラム開発におけるプロダクトオーナー業務を担当。ステークホルダー、社内企画部、テストベンダーなど関係各所との調整を主導した
 - マネージャーの采配やコミュニケーションは、プレーヤーの成長、活躍に非常に大きな影響を与えることを実感。マネージャー業務として若手社員の人材育成を強く意識しながらプロジェクトを推進し、その立場でアプリケーションを遺漏なくリリースできたことに大きなやりがいを覚える
 
-#### 2023年10月〜現在 広報ブログおよび社内情報共有プラットフォームの立ち上げ
+#### 2023年10月〜2024年6月 広報ブログおよび社内情報共有プラットフォームの立ち上げ
 
 ##### プロジェクト概要
 
@@ -137,7 +137,7 @@
 - エンジニアの積極的な記事執筆を促進するための施策を企画し、そのメリットを明確に伝える活動を実施
 - 社内にアウトプットの文化がない中、ブログ記事の執筆を通じて技術的知見を積極的に共有する文化を醸成
 
-#### 2024年02月～現在 ペット型 AI ロボットと連携するモバイルアプリケーション開発
+#### 2024年02月～2024年6月 ペット型 AI ロボットと連携するモバイルアプリケーション開発
 
 ##### プロジェクト概要
 
@@ -160,6 +160,35 @@
 
 <!-- markdownlint-disable MD013 -->
 <!-- markdownlint-disable MD033 -->
+
+### 2024年7月〜現在 株式会社リクルート
+
+| Key                 | Value                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 事業内容            | 求人広告、人材紹介、ライフスタイル情報サービスの提供                                                                        |
+| 資本金              | 3億5千万円                                                                                                                  |
+| 売上高 (2023年度)   | 8,078億円 (単体) 34,164億円 (連結)                                                                                          |
+| 従業員数 (2023年度) | 20,767名 (アルバイト・パート含)                                                                                             |
+| 本社所在地          | 東京都千代田区                                                                                                              |
+| 設立年              | 2012年                                                                                                                      |
+| 上場                | プライム市場上場 (東京証券取引所)                                                                                           |
+| 備考                | 2012年10月1日、株式会社リクルートホールディングス設立時の分社化により設立。<br>2018年4月1日に株式会社リクルートに商号変更。 |
+
+#### 2024年07月～ 旅行サービスにおけるモバイルアプリケーション開発
+
+##### プロジェクト概要
+
+- 旅行サービスにおける宿泊施設の検索・予約や観光情報の提供
+
+##### 担当業務
+
+- モバイルアプリケーションの設計、開発
+- 既存機能の改善およびバグ修正
+- 他チームとの連携による開発プロセスの最適化
+
+##### 主な貢献・自身の創意工夫
+
+T.B.A
 
 ## スキル・経験
 
@@ -256,6 +285,7 @@
 | ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat)<br>![NeoVim](https://img.shields.io/badge/-NeoVim-007ACC.svg?logo=neovim&style=flat)                                                                                                            | VSCode の拡張機能 [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) を通じて日常的に NeoVim を利用 (2年以上)<br>純粋な Vim は最低限を操作できる程度 |
 | ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat)<br>![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat)<br>![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED.svg?logo=obsidian&style=flat) | 個人/業務メモの蓄積に日常的に利用 (4年以上)                                                                                                                       |
 | ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat)<br>![CodiMD](https://img.shields.io/badge/-CodiMD-000.svg?logo=&style=flat)                                                                                                                    | 業務でのナレッジ集積に日常的に利用 (4年以上)<br>主に GROWI, 補助して CodiMD を使用、共同編集機能が業務上の魅力                                                    |
+| ![Jira](https://img.shields.io/badge/-Jira-0052CC.svg?logo=jira&style=flat)<br>![Confluence](https://img.shields.io/badge/-Confluence-1868DC.svg?logo=confluence&style=flat)                                                                                             | 業務でのナレッジ集積、チケット管理に日常的に利用                                                                                                                  |
 | ![WordPress](https://img.shields.io/badge/-WordPress-23282D.svg?logo=wordpress&style=flat)                                                                                                                                                                               | 社内向け情報発信の仕組みづくりに部分的に利用 (半年未満)                                                                                                           |
 | ![Miro](https://img.shields.io/badge/-Miro-FD3.svg?logo=miro&logoColor=000&style=flat)                                                                                                                                                                                   | スクラム開発におけるユーザーストーリーマッピング、モバイルアプリ開発におけるワイヤーフレーム作成に利用 (1年以上)                                                  |
 | ![Figma](https://img.shields.io/badge/-Figma-2D2F37.svg?logo=figma&logoColor=F24E1E&style=flat)                                                                                                                                                                          | モバイルアプリ開発におけるデザイン共有に利用 (4年以上)                                                                                                            |
@@ -299,7 +329,8 @@
 
 | Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Detail                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=microsoftword&style=flat)<br>![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoftexcel&style=flat)<br>![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=microsoftpowerpoint&/style=flat)                                                                                                                                                                                                                                                                       | 日常的な業務、研究に利用 (10年以上) |
+| ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=&style=flat)<br>![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=&style=flat)<br>![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=&/style=flat)                                                                                                                                                                                                                                                                                                                     | 日常的な業務、研究に利用 (10年以上) |
+| ![Microsoft Outlook](https://img.shields.io/badge/-Microsoft%20Outlook-0675D4.svg?logo=&style=flat)<br>![Microsoft ToDo](https://img.shields.io/badge/-Microsoft%20ToDo-1757B7.svg?logo=&style=flat)<br>![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-690F9D.svg?logo=&/style=flat)                                                                                                                                                                                                                                                                                                                       | 日常的な業務に一部利用              |
 | ![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat)<br>![Google Docs](https://img.shields.io/badge/-Google%20Docs-FCFCFC.svg?logo=googledocs&style=flat)<br>![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FCFCFC.svg?logo=googlesheets&style=flat)<br>![Google Slides](https://img.shields.io/badge/-Google%20Slides-FCFCFC.svg?logo=googleslides&style=flat)<br>![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-FCFCFC.svg?logo=googlecalendar&style=flat)<br>![Google Drive](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googledrive&style=flat) | 日常的な業務に利用 (4年以上)        |
 <!-- markdownlint-enable MD013 -->
 <!-- markdownlint-enable MD033 -->

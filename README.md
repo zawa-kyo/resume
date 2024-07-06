@@ -185,10 +185,10 @@
 
 #### プライベートで書いている言語
 
-| Item                                                                                               | Detail                                                                 |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)                        | モダンな開発言語として勉強中<br>学習の一環としてライブラリ開発を模索中 |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-19191C.svg?logo=kotlin&logoColor=B723EE&style=flat) | Android のネイティブアプリ開発の一環として学習中                       |
+| Item                                                                                               | Detail                                           |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)                        | モダンな開発言語として勉強中                     |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-19191C.svg?logo=kotlin&logoColor=B723EE&style=flat) | Android のネイティブアプリ開発の一環として学習中 |
 
 ### フレームワーク
 

@@ -39,7 +39,17 @@
 
 ## 職務経歴
 
-### 2020年4月～現在 カシオ計算機株式会社
+### 2020年4月～2024年6月 カシオ計算機株式会社
+
+| Key                 | Value                             |
+| ------------------- | --------------------------------- |
+| 事業内容            | 電子機器及び関連商品の製造、販売  |
+| 資本金              | 485億円                           |
+| 売上高 (2023年度)   | 1,858億円 (単体) 2,688億円 (連結) |
+| 従業員数 (2023年度) | 2,480名 (単体) 9,594名(連結)      |
+| 本社所在地          | 東京都渋谷区                      |
+| 本社設立年          | 1957年                            |
+| 上場                | プライム市場上場 (東京証券取引所) |
 
 #### 2020年4月～2020年09月 組み込みソフトウェア開発
 
@@ -100,7 +110,7 @@
 - 2023年10月からチームの再編成によりモバイルアプリケーション開発チームのマネージャー業務、スクラム開発におけるプロダクトオーナー業務を担当。ステークホルダー、社内企画部、テストベンダーなど関係各所との調整を主導した
 - マネージャーの采配やコミュニケーションは、プレーヤーの成長、活躍に非常に大きな影響を与えることを実感。マネージャー業務として若手社員の人材育成を強く意識しながらプロジェクトを推進し、その立場でアプリケーションを遺漏なくリリースできたことに大きなやりがいを覚える
 
-#### 2023年10月〜現在 広報ブログおよび社内情報共有プラットフォームの立ち上げ
+#### 2023年10月〜2024年6月 広報ブログおよび社内情報共有プラットフォームの立ち上げ
 
 ##### プロジェクト概要
 
@@ -127,7 +137,7 @@
 - エンジニアの積極的な記事執筆を促進するための施策を企画し、そのメリットを明確に伝える活動を実施
 - 社内にアウトプットの文化がない中、ブログ記事の執筆を通じて技術的知見を積極的に共有する文化を醸成
 
-#### 2024年02月～現在 ペット型 AI ロボットと連携するモバイルアプリケーション開発
+#### 2024年02月～2024年6月 ペット型 AI ロボットと連携するモバイルアプリケーション開発
 
 ##### プロジェクト概要
 
@@ -151,6 +161,35 @@
 <!-- markdownlint-disable MD013 -->
 <!-- markdownlint-disable MD033 -->
 
+### 2024年7月〜現在 株式会社リクルート
+
+| Key                 | Value                                                                                                                       |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 事業内容            | 求人広告、人材紹介、ライフスタイル情報サービスの提供                                                                        |
+| 資本金              | 3億5千万円                                                                                                                  |
+| 売上高 (2023年度)   | 8,078億円 (単体) 34,164億円 (連結)                                                                                          |
+| 従業員数 (2023年度) | 20,767名 (アルバイト・パート含)                                                                                             |
+| 本社所在地          | 東京都千代田区                                                                                                              |
+| 設立年              | 2012年                                                                                                                      |
+| 上場                | プライム市場上場 (東京証券取引所)                                                                                           |
+| 備考                | 2012年10月1日、株式会社リクルートホールディングス設立時の分社化により設立。<br>2018年4月1日に株式会社リクルートに商号変更。 |
+
+#### 2024年07月～ 旅行サービスにおけるモバイルアプリケーション開発
+
+##### プロジェクト概要
+
+- 旅行サービスにおける宿泊施設の検索・予約や観光情報の提供
+
+##### 担当業務
+
+- モバイルアプリケーションの設計、開発
+- 既存機能の改善およびバグ修正
+- 他チームとの連携による開発プロセスの最適化
+
+##### 主な貢献・自身の創意工夫
+
+T.B.A
+
 ## スキル・経験
 
 ### 言語
@@ -159,7 +198,7 @@
 
 | Item                                                                                                                                                                                                                                                                                                                                                                                                                    | Detail                                                                                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F5D13A.svg?logo=javascript&logoColor=FFF&style=flat)<br>![TypeScript](https://img.shields.io/badge/-Typescript-2F74C0.svg?logo=typescript&logoColor=FFF&style=flat)<br>![HTML5](https://img.shields.io/badge/-HTML5-DD4A22.svg?logo=html5&logoColor=FFF&style=flat)<br>![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&logoColor=FFF&style=flat) | Cordova, Vue.js を用いたハイブリッドアプリ開発におけるWebアプリ層に利用 (4年以上)<br>テスティングフレームワーク、アサーションライブラリとして [Jest](https://github.com/jestjs/jest), [Karma](https://github.com/karma-runner/karma), [Chai](https://github.com/chaijs/chai), [Sinon.JS](https://github.com/sinonjs/) を利用 (2年以上)                                      |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F5D13A.svg?logo=javascript&logoColor=FFF&style=flat)<br>![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0.svg?logo=typescript&logoColor=FFF&style=flat)<br>![HTML5](https://img.shields.io/badge/-HTML5-DD4A22.svg?logo=html5&logoColor=FFF&style=flat)<br>![CSS3](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&logoColor=FFF&style=flat) | Cordova, Vue.js を用いたハイブリッドアプリ開発におけるWebアプリ層に利用 (4年以上)<br>テスティングフレームワーク、アサーションライブラリとして [Jest](https://github.com/jestjs/jest), [Karma](https://github.com/karma-runner/karma), [Chai](https://github.com/chaijs/chai), [Sinon.JS](https://github.com/sinonjs/) を利用 (2年以上)                                      |
 | ![Java](https://img.shields.io/badge/-Java-E21423.svg?logo=openjdk&style=flat)<br>![Swift](https://img.shields.io/badge/-Swift-FF3B28.svg?logo=swift&logoColor=FFF&style=flat)<br>![Objective-C](https://img.shields.io/badge/-Objective--C-080736.svg?logo=apple&style=flat)                                                                                                                                           | Cordova を用いたハイブリッドアプリ開発における iOS/Android のネイティブ機能にアクセスするプラグイン開発に利用 (4年以上)<br>特に Java はベンダー資格の取得を通じてモダンな文法、開発手法にも精通                                                                                                                                                                             |
 | ![Python](https://img.shields.io/badge/-Python-3671A0.svg?logo=python&logoColor=F7E170&style=flat)                                                                                                                                                                                                                                                                                                                      | 汎用的なツールを構築する際の第一候補として頻繁に業務に利用 (4年以上)<ul><li>サーバ通信を伴う社内ツールの開発</li><li>[NumPy](https://numpy.org/ja/), [pandas](https://pandas.pydata.org), [Polars](https://pola.rs) を用いた加速度、ジャイロ等のセンサーデータの解析、[Matplotlib](https://matplotlib.org), [plotly](https://plotly.com/python/) を用いたプロット</li></ul> |
 | ![Dart](https://img.shields.io/badge/-Dart-2CB7F6.svg?logo=dart&style=flat)                                                                                                                                                                                                                                                                                                                                             | Flutter を用いたモバイルアプリ開発に利用 (半年以上)                                                                                                                                                                                                                                                                                                                         |
@@ -175,10 +214,10 @@
 
 #### プライベートで書いている言語
 
-| Item                                                                                               | Detail                                                                 |
-| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)                        | モダンな開発言語として勉強中<br>学習の一環としてライブラリ開発を模索中 |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-19191C.svg?logo=kotlin&logoColor=B723EE&style=flat) | Android のネイティブアプリ開発の一環として学習中                       |
+| Item                                                                                               | Detail                                           |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| ![Rust](https://img.shields.io/badge/-Rust-000000.svg?logo=rust&style=flat)                        | モダンな開発言語として勉強中                     |
+| ![Kotlin](https://img.shields.io/badge/-Kotlin-19191C.svg?logo=kotlin&logoColor=B723EE&style=flat) | Android のネイティブアプリ開発の一環として学習中 |
 
 ### フレームワーク
 
@@ -211,14 +250,13 @@
 | ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-24292F.svg?logo=githubactions&logoColor=FFF&style=flat) | 個人開発におけるユニットテスト実行、デプロイ自動化に利用 (半年以上)                                                       |
 
 ### クラウド
-<!-- TODO: Change Amazon AWS to Amazon Web Services (v12.0.0)-->
 
-| Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Detail                                                                                                                                                                                                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonaws&style=flat)<br>![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900.svg?logo=awslambda&logoColor=FFF&style=flat)<br>![AWS EC2](https://img.shields.io/badge/-EC2-FF9900.svg?logo=amazonec2&logoColor=FFF&style=flat)<br>![AWS S3](https://img.shields.io/badge/-S3-569A31.svg?logo=amazons3&logoColor=FFF&style=flat)<br>![AWS Identity Access Management](https://img.shields.io/badge/-%20IAM-DD344C.svg?logo=amazoniam&logoColor=FFF&style=flat)<br>![AWS API Gateway](https://img.shields.io/badge/-%20API%20Gateway-FF4F8B.svg?logo=amazonapigateway&logoColor=FFF&style=flat) | 業務/個人開発で時折利用 (4年以上)<br>業務では補佐のみ、個人開発では簡単なAPIを実装できる程度<br>次のオンライントレーニングを受講済み<ul><li>AWS Technical Essentials</li><li>Developing on AWS</li><li>Architecting on AWS</li></ul> |
-| ![AWS ECS](https://img.shields.io/badge/-ECS-FF9900.svg?logo=amazonecs&logoColor=FFF&style=flat)<br>![AWS Cognito](https://img.shields.io/badge/-Cognito-527FFF.svg?logo=amazoncognito&logoColor=FFF&style=flat)<br>![AWS RDS](https://img.shields.io/badge/-RDS-527FFF.svg?logo=amazonrds&logoColor=FFF&style=flat)<br>![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=FFF&style=flat)<br>![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B.svg?logo=amazoncloudwatch&logoColor=FFF&style=flat)                                                                                            | 研修や個人開発で触れる中で概要を理解                                                                                                                                                                                                 |
-| ![Firebase](https://img.shields.io/badge/-Firebase-1A73E8.svg?logo=firebase&style=flat)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | モバイルアプリ開発において Firebase Cloud Messaging によるプッシュ通知に利用 (1年以上)<br>ゼロからの環境構築経験はなく、調査、補佐業務を担当                                                                                         |
-| ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4081EC.svg?logo=googlecloud&logoColor=FFF&style=flat)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | モバイルアプリ開発における OAuth に利用、補佐のみ (半年未満)                                                                                                                                                                         |
+| Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Detail                                                                                                                                                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![AWS](https://img.shields.io/badge/-AWS-232F3E.svg?logo=amazonwebservices&style=flat)<br>![AWS Lambda](https://img.shields.io/badge/-Lambda-FF9900.svg?logo=awslambda&logoColor=FFF&style=flat)<br>![AWS EC2](https://img.shields.io/badge/-EC2-FF9900.svg?logo=amazonec2&logoColor=FFF&style=flat)<br>![AWS S3](https://img.shields.io/badge/-S3-569A31.svg?logo=amazons3&logoColor=FFF&style=flat)<br>![AWS Identity Access Management](https://img.shields.io/badge/-%20IAM-DD344C.svg?logo=amazoniam&logoColor=FFF&style=flat)<br>![AWS API Gateway](https://img.shields.io/badge/-%20API%20Gateway-FF4F8B.svg?logo=amazonapigateway&logoColor=FFF&style=flat)  | 業務/個人開発で時折利用 (4年以上)<br>業務では補佐のみ、個人開発では簡単なAPIを実装できる程度<br>次のオンライントレーニングを受講済み<ul><li>AWS Technical Essentials</li><li>Developing on AWS</li><li>Architecting on AWS</li></ul> |
+| ![AWS ECS](https://img.shields.io/badge/-ECS-FF9900.svg?logo=amazonecs&logoColor=FFF&style=flat)<br>![AWS EKS](https://img.shields.io/badge/-EKS-FF9900.svg?logo=amazoneks&logoColor=FFF&style=flat)<br>![AWS Cognito](https://img.shields.io/badge/-Cognito-527FFF.svg?logo=amazoncognito&logoColor=FFF&style=flat)<br>![AWS RDS](https://img.shields.io/badge/-RDS-527FFF.svg?logo=amazonrds&logoColor=FFF&style=flat)<br>![AWS DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6.svg?logo=amazondynamodb&logoColor=FFF&style=flat)<br>![AWS CloudWatch](https://img.shields.io/badge/-CloudWatch-FF4F8B.svg?logo=amazoncloudwatch&logoColor=FFF&style=flat) | 研修や個人開発で触れる中で概要を理解                                                                                                                                                                                                 |
+| ![Firebase](https://img.shields.io/badge/-Firebase-1A73E8.svg?logo=firebase&style=flat)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | モバイルアプリ開発において Firebase Cloud Messaging によるプッシュ通知に利用 (1年以上)<br>ゼロからの環境構築経験はなく、調査、補佐業務を担当                                                                                         |
+| ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4081EC.svg?logo=googlecloud&logoColor=FFF&style=flat)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | モバイルアプリ開発における OAuth に利用、補佐のみ (半年未満)                                                                                                                                                                         |
 
 ### API/通信処理開発
 
@@ -242,12 +280,13 @@
 | Item                                                                                                                                                                                                                                                                     | Detail                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC.svg?logo=visual-studio-code&style=flat)                                                                                                                                                                | 業務/個人開発で中心的に利用 (5年以上)<br>個人開発では devcontainer によるコンテナ化を積極的に利用                                                                 |
-| ![Android Studio](https://img.shields.io/badge/-Android%20Studio-4283F6.svg?logo=androidstudio&style=flat)<br>![XCode](https://img.shields.io/badge/-XCode-1976E1.svg?logo=xcode&logoColor=F7F7F7&style=flat)                                                            | iOS/Android アプリ開発に補助的に利用 (5年以上)                                                                                                                    |
-| ![RStudio](https://img.shields.io/badge/-RStudio-FFF.svg?logo=rstudio&style=flat)                                                                                                                                                                                        | 学生時代、R 言語による実験データ解析に日常的に利用 (3年以上)                                                                                                      |
+| ![XCode](https://img.shields.io/badge/-XCode-1976E1.svg?logo=xcode&logoColor=F7F7F7&style=flat)<br>![Android Studio](https://img.shields.io/badge/-Android%20Studio-4283F6.svg?logo=androidstudio&style=flat)                                                            | iOS/Android アプリ開発に補助的に利用 (5年以上)                                                                                                                    |
+| ![RStudio](https://img.shields.io/badge/-RStudio-FFF.svg?logo=rstudioide&style=flat)                                                                                                                                                                                     | 学生時代、R 言語による実験データ解析に日常的に利用 (3年以上)                                                                                                      |
 | ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-F52F5B.svg?logo=intellijidea&logoColor=FFF&style=flat)<br>![PyCharm](https://img.shields.io/badge/-PyCharm-ADAE3B.svg?logoColor=FFF&logo=pycharm&style=flat)                                              | 個人開発に補助的に利用 (1年弱)                                                                                                                                    |
 | ![Vim](https://img.shields.io/badge/-Vim-009431.svg?logo=vim&style=flat)<br>![NeoVim](https://img.shields.io/badge/-NeoVim-007ACC.svg?logo=neovim&style=flat)                                                                                                            | VSCode の拡張機能 [vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) を通じて日常的に NeoVim を利用 (2年以上)<br>純粋な Vim は最低限を操作できる程度 |
 | ![Markdown](https://img.shields.io/badge/-Markdown-000000.svg?logo=markdown&style=flat)<br>![PlantUML](https://img.shields.io/badge/-PlantUML-941037.svg?logo=uml&style=flat)<br>![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED.svg?logo=obsidian&style=flat) | 個人/業務メモの蓄積に日常的に利用 (4年以上)                                                                                                                       |
 | ![GROWI](https://img.shields.io/badge/-GROWI-63C43A.svg?logo=&style=flat)<br>![CodiMD](https://img.shields.io/badge/-CodiMD-000.svg?logo=&style=flat)                                                                                                                    | 業務でのナレッジ集積に日常的に利用 (4年以上)<br>主に GROWI, 補助して CodiMD を使用、共同編集機能が業務上の魅力                                                    |
+| ![Jira](https://img.shields.io/badge/-Jira-0052CC.svg?logo=jira&style=flat)<br>![Confluence](https://img.shields.io/badge/-Confluence-1868DC.svg?logo=confluence&style=flat)                                                                                             | 業務でのナレッジ集積、チケット管理に日常的に利用                                                                                                                  |
 | ![WordPress](https://img.shields.io/badge/-WordPress-23282D.svg?logo=wordpress&style=flat)                                                                                                                                                                               | 社内向け情報発信の仕組みづくりに部分的に利用 (半年未満)                                                                                                           |
 | ![Miro](https://img.shields.io/badge/-Miro-FD3.svg?logo=miro&logoColor=000&style=flat)                                                                                                                                                                                   | スクラム開発におけるユーザーストーリーマッピング、モバイルアプリ開発におけるワイヤーフレーム作成に利用 (1年以上)                                                  |
 | ![Figma](https://img.shields.io/badge/-Figma-2D2F37.svg?logo=figma&logoColor=F24E1E&style=flat)                                                                                                                                                                          | モバイルアプリ開発におけるデザイン共有に利用 (4年以上)                                                                                                            |
@@ -291,7 +330,8 @@
 
 | Item                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Detail                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=microsoftword&style=flat)<br>![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=microsoftexcel&style=flat)<br>![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=microsoftpowerpoint&/style=flat)                                                                                                                                                                                                                                                                       | 日常的な業務、研究に利用 (10年以上) |
+| ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-2B579A.svg?logo=&style=flat)<br>![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346.svg?logo=&style=flat)<br>![Microsoft Powerpoint](https://img.shields.io/badge/-Microsoft%20Powerpoint-B7472A.svg?logo=&/style=flat)                                                                                                                                                                                                                                                                                                                     | 日常的な業務、研究に利用 (10年以上) |
+| ![Microsoft Outlook](https://img.shields.io/badge/-Microsoft%20Outlook-0675D4.svg?logo=&style=flat)<br>![Microsoft ToDo](https://img.shields.io/badge/-Microsoft%20ToDo-1757B7.svg?logo=&style=flat)<br>![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-690F9D.svg?logo=&/style=flat)                                                                                                                                                                                                                                                                                                                       | 日常的な業務に一部利用              |
 | ![Gmail](https://img.shields.io/badge/-Gmail-FCFCFC.svg?logo=gmail&style=flat)<br>![Google Docs](https://img.shields.io/badge/-Google%20Docs-FCFCFC.svg?logo=googledocs&style=flat)<br>![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-FCFCFC.svg?logo=googlesheets&style=flat)<br>![Google Slides](https://img.shields.io/badge/-Google%20Slides-FCFCFC.svg?logo=googleslides&style=flat)<br>![Google Calendar](https://img.shields.io/badge/-Google%20Calendar-FCFCFC.svg?logo=googlecalendar&style=flat)<br>![Google Drive](https://img.shields.io/badge/-Google%20Drive-FCFCFC.svg?logo=googledrive&style=flat) | 日常的な業務に利用 (4年以上)        |
 <!-- markdownlint-enable MD013 -->
 <!-- markdownlint-enable MD033 -->
@@ -304,14 +344,15 @@
 | 2016/9  | TOEIC® Listening & Reading Test: 725           |                      |
 | 2023/3  | Oracle Certified Java Programmer, Silver SE 11 | 認定番号 444660399   |
 | 2023/5  | Oracle Certified Java Programmer, Gold SE 11   | 認定番号 450474905   |
-| 2023/8  | 基本情報技術者                                 | 第FE-2023-07-02729号 |
-| 2023/12 | 応用情報技術者                                 | 第AP-2023-10-02752号 |
+| 2023/8  | 基本情報技術者試験                             | 第FE-2023-07-02729号 |
+| 2023/12 | 応用情報技術者試験                             | 第AP-2023-10-02752号 |
 
 ## 技術記事発信
 
 - [Zenn](https://zenn.dev/zawa_kyo)
 - [カシオ計算機株式会社 note](https://note-pr.casio.co.jp/)
   - [応用情報技術者試験 受けてきました！](https://note-pr.casio.co.jp/n/nfea9ce8391e7)
+  - [Google PixelでAndroid OSをダウングレードする](https://note-pr.casio.co.jp/n/n7f185fede72a)
 
 ## 学歴/研究
 

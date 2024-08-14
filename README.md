@@ -234,6 +234,13 @@ T.B.A
 | ![Sentry](https://img.shields.io/badge/-Sentry-C43A5D.svg?logo=sentry&style=flat)                                                                                                                                                          | モバイルアプリ開発において市場モニタリングに利用 (3年以上)<br>ログ出力設計、実装、保守を主導 (1年以上) |
 | ![Adobe Analytics](https://img.shields.io/badge/-Adobe%20Analytics-D10C01.svg?logo=adobe&style=flat)<br>![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400.svg?logo=google-analytics&logoColor=FFC107&style=flat) | モバイルアプリや技術ブログのユーザー分析に補助的に利用 (1年以上)                                       |
 
+### DBMS
+
+| Item                                                                                                                                                                                                        | Detail                             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| ![SQLite](https://img.shields.io/badge/-SQLite-044A63.svg?logo=sqlite&style=flat)                                                                                                                           | Androidアプリ開発に利用 (半年以上) |
+| ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791.svg?logo=postgresql&logoColor=FFF&style=flat)<br>![MySQL](https://img.shields.io/badge/-MySQL-F49210.svg?logo=mysql&logoColor=FFF&style=flat) | 個人開発および学習に利用           |
+
 ### コンテナ仮想化
 
 | Item                                                                                                   | Detail                                                                                  |

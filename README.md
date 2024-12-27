@@ -341,8 +341,8 @@ T.B.A
 | ------- | ---------------------------------------------- | -------------------- |
 | 2015/9  | 普通自動車第一種運転免許                       |                      |
 | 2016/9  | TOEIC® Listening & Reading Test: 725           |                      |
-| 2023/3  | Oracle Certified Java Programmer, Silver SE 11 | 認定番号 444660399   |
-| 2023/5  | Oracle Certified Java Programmer, Gold SE 11   | 認定番号 450474905   |
+| 2023/3  | Oracle Certified Java Programmer, Silver SE 11 (1Z0-815) | 認定番号 444660399   |
+| 2023/5  | Oracle Certified Java Programmer, Gold SE 11 (1Z0-816)   | 認定番号 450474905   |
 | 2023/8  | 基本情報技術者試験                             | 第FE-2023-07-02729号 |
 | 2023/12 | 応用情報技術者試験                             | 第AP-2023-10-02752号 |
 | 2024/10 | 食品衛生責任者                                 | 東食養 3608389号     |

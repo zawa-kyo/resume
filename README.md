@@ -348,6 +348,7 @@ T.B.A
 | 2024/10 | 食品衛生責任者                                           | 東食養 3608389 号         |
 | 2024/12 | AWS Certified Cloud Practitioner (CLF-C02)               | 登録番号 495363087        |
 | 2025/2  | Certified ScrumMaster®                                   | Certificant ID: 001734915 |
+| 2024/3  | AWS Certified Solutions Architect - Associate (SAA-C03)  | 登録番号 501557125        |
 
 ## 技術記事発信
 

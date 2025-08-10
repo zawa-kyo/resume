@@ -1,6 +1,8 @@
 {
   "MD013": {
-    "line_length": 120 // 一行の文字数上限
+    "line_length": 120, // 一行の文字数上限
+    "tables": false, // 表は長行を許容
+    "code_blocks": false // コードブロックは長行を許容
   },
   "MD024": false, // no-duplicate-heading Multiple headings with the same content
   "MD041": false // ファイルの最初の行はトップレベルの見出しにする

@@ -1,44 +1,44 @@
 # Repository Guidelines
 
-## Project Structure & Module Organization
+## プロジェクト構成とモジュール
 
-- `README.md`: Primary resume content shown on GitHub and used for PDF.
-- `src/header.md`: Intro section prepended when generating the PDF.
-- `src/build_pdf.sh`: Combines Markdown and calls `md-to-pdf` to produce `Resume.pdf`.
-- `.github/workflows/`: CI for linting (`lint.yml`) and scheduled reminder issue.
-- `_config.yml`: GitHub Pages configuration (enables `jekyll-sitemap`).
-- `package.json`, `bun.lock*`: Bun-based tooling and dependencies.
+- `README.md`: GitHub で表示される職務経歴書の本文。PDF 生成にも使用。
+- `src/header.md`: PDF 生成時に先頭へ付与するイントロ文。
+- `src/build_pdf.sh`: Markdown を結合し、`md-to-pdf` で `Resume.pdf` を生成。
+- `.github/workflows/`: Lint 用 CI（`lint.yml`）と定期リマインド Issue のワークフロー。
+- `_config.yml`: GitHub Pages 設定（`jekyll-sitemap` 有効）。
+- `package.json`, `bun.lock*`: Bun ベースのツールと依存関係。
 
-## Build, Test, and Development Commands
+## ビルド・テスト・開発コマンド
 
-- `bun install`: Install dependencies.
-- `bun run lint`: Run textlint (Japanese prose) and markdownlint on `README.md`.
-- `bun run build-pdf`: Generate `Resume.pdf` from `README.md` + `src/header.md`.
-- `bun run format`: Format Markdown/JSON/YAML with Prettier.
-- `bun run format:check`: Check formatting without writing changes.
+- `bun install`: 依存関係をインストール。
+- `bun run lint`: textlint（日本語）と markdownlint（`README.md`）を実行。
+- `bun run build-pdf`: `README.md` と `src/header.md` から `Resume.pdf` を生成。
+- `bun run format`: Prettier で Markdown/JSON/YAML を整形。
+- `bun run format:check`: 整形差分のみ確認（書き込みなし）。
 
-## Coding Style & Naming Conventions
+## コーディング規約と命名
 
-- Indentation: 2 spaces; no tabs.
-- Markdown: Aim for ≤120 characters per line; use clear headings, lists, and tables.
-- Prettier: `proseWrap: "preserve"`, `endOfLine: "lf"`, and code-fence formatting disabled.
-- Linting: textlint (Japanese rules) + markdownlint (`MD013` set to 120; tables/code blocks excluded).
-- Branches: `<type>/<topic>` (e.g., `feat/update-company-info`, `fix/sections`).
-- Commits: Conventional prefixes (`feat:`, `fix:`, `docs:`, `chore:`), imperative, concise.
+- インデント: スペース 2。タブは使用しない。
+- Markdown: 目安は 1 行 120 文字。見出し・箇条書き・表を適切に使用。
+- Prettier: `proseWrap: "preserve"`, `endOfLine: "lf"`, フェンス内コードの自動整形は無効。
+- Lint: textlint（日本語スタイル）+ markdownlint（`MD013=120`、表/コードブロックは除外）。
+- ブランチ: `<type>/<topic>`（例: `feat/update-company-info`, `fix/sections`）。
+- コミット: Conventional 前置詞（`feat:`, `fix:`, `docs:`, `chore:`）で簡潔・命令形。
 
-## Testing Guidelines
+## テスト方針
 
-- No unit tests; linters serve as quality gates. Ensure `bun run lint` passes locally.
-- CI runs lint on pull requests (see `.github/workflows/lint.yml`).
-- Keep changes small and self-contained for easy review.
+- 単体テストはなし。リンター通過を品質ゲートとする（`bun run lint`）。
+- CI は Pull Request で実行（`.github/workflows/lint.yml`）。
+- 変更は小さく自己完結に保ち、レビュー容易性を重視。
 
-## Commit & Pull Request Guidelines
+## コミット／プルリクエスト方針
 
-- Commits: Group related edits; write clear summaries and context in the body when needed.
-- Pull Requests: Provide purpose, scope, and linked issues (if any). Include a screenshot of rendered Markdown or confirm `Resume.pdf` builds locally.
+- コミット: 関連変更をまとめ、要約と必要な背景を本文に記載。
+- PR: 目的・範囲・関連 Issue（任意）を記載。レンダリングのスクリーンショット、または `Resume.pdf` がローカル生成できることを明記。
 
-## Security & Configuration Tips
+## セキュリティと設定のヒント
 
-- Do not commit secrets. Actions rely on `GITHUB_TOKEN` only.
-- Local setup: Install Bun (`brew install bun`) and run `bun install` before building.
-- Generated artifacts (`Resume.pdf`, `Resume.md`) are ignored; attach for review only when necessary.
+- 機密情報はコミットしない。Actions は `GITHUB_TOKEN` のみ利用。
+- ローカルセットアップ: Bun を導入（`brew install bun`）し、`bun install` 実行後にビルド。
+- 生成物（`Resume.pdf`, `Resume.md`）は基本的に追跡対象外。レビュー目的で必要時のみ添付。

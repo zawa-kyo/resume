@@ -273,11 +273,11 @@
 
 ### API/通信処理開発
 
-| Item                                                                                                                                                                                             | Detail                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| ![Postman](https://img.shields.io/badge/-Postman-F76737.svg?logo=postman&logoColor=F7F7F7&style=flat)<br>![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) | 業務/個人開発において API テスト、デバッグに利用 (4 年以上)<br>業務では Insomnia を中心的に利用 |
-| ![Charles](https://img.shields.io/badge/-Charles-389.svg?logo=charles&style=flat)<br>![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7.svg?logo=wireshark&style=flat)                  | スマートフォン端末の通信キャプチャに時折利用 (2 年以上)<br>業務では Charles を中心的に利用      |
-| ![Swagger](https://img.shields.io/badge/-Swagger-83B83E.svg?logo=swagger&logoColor=F7F7F7&style=flat)                                                                                            | API ドキュメントの作成/参照に利用 (4 年以上)                                                    |
+| Item                                                                                                                                                                                             | Detail                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Postman](https://img.shields.io/badge/-Postman-F76737.svg?logo=postman&logoColor=F7F7F7&style=flat)<br>![Insomnia](https://img.shields.io/badge/-Insomnia-6635B7.svg?logo=insomnia&style=flat) | 業務/個人開発において API テスト、デバッグに利用 (4 年以上)<br>業務では Insomnia を中心的に利用                                                               |
+| ![Charles](https://img.shields.io/badge/-Charles-389.svg?logo=charles&style=flat)<br>![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7.svg?logo=wireshark&style=flat)                  | スマートフォン端末の通信キャプチャに利用 (2 年以上)<br>HTTP/HTTPS のアプリケーション層は Charles を中心に解析。TCP/IP のパケットレベル調査は Wireshark で補完 |
+| ![Swagger](https://img.shields.io/badge/-Swagger-83B83E.svg?logo=swagger&logoColor=F7F7F7&style=flat)                                                                                            | API ドキュメントの作成/参照に利用 (4 年以上)                                                                                                                  |
 
 ### コミュニケーションツール
 

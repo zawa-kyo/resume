@@ -364,6 +364,7 @@
 | 2024/12 | AWS Certified Cloud Practitioner (CLF-C02)               | 登録番号 495363087        |
 | 2025/2  | Certified ScrumMaster®                                   | Certificant ID: 001734915 |
 | 2025/3  | AWS Certified Solutions Architect - Associate (SAA-C03)  | 登録番号 501557125        |
+| 2025/12 | データベーススペシャリスト                               | 第 DB-2025-10-00372 号    |
 
 ## 技術記事発信
 

@@ -365,6 +365,7 @@
 | 2025/02 | Certified ScrumMaster®                                   | Certificant ID: 001734915 |
 | 2025/03 | AWS Certified Solutions Architect - Associate (SAA-C03)  | 登録番号 501557125        |
 | 2025/12 | データベーススペシャリスト試験                           | 第 DB-2025-10-00372 号    |
+| 2026/02 | AWS Certified AI Practitioner (AIF-C01)                  | 登録番号 528081533        |
 
 ## 技術記事発信
 

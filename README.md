@@ -362,9 +362,10 @@
 | 2023/12 | 応用情報技術者試験                                       | 第 AP-2023-10-02752 号    |
 | 2024/10 | 食品衛生責任者                                           | 東食養 3608389 号         |
 | 2024/12 | AWS Certified Cloud Practitioner (CLF-C02)               | 登録番号 495363087        |
-| 2025/02 | Certified ScrumMaster®                                   | Certificant ID: 001734915 |
+| 2025/02 | Certified ScrumMaster®                                   | Certificate ID: 001734915 |
 | 2025/03 | AWS Certified Solutions Architect - Associate (SAA-C03)  | 登録番号 501557125        |
 | 2025/12 | データベーススペシャリスト試験                           | 第 DB-2025-10-00372 号    |
+| 2026/02 | AWS Certified AI Practitioner (AIF-C01)                  | 登録番号 528081533        |
 
 ## 技術記事発信
 

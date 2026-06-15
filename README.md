@@ -307,12 +307,12 @@
 
 ### プロジェクト/ソースコード管理
 
-| Item                                                                                                                                                                                          | Detail                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)                                                                                                             | 個人開発に利用 (4 年以上)                                             |
-| ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)                                                                                                                 | 業務のタスク管理とソースコードの差分管理として中心的に利用 (4 年以上) |
-| ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC.svg?logo=bitbucket&style=flat)<br>![GitLab](https://img.shields.io/badge/-GitLab-FC6D26.svg?logo=gitlab&logoColor=FFF&style=flat) | 業務のソースコード管理として一部利用 (半年以上)                       |
-| ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat)                                                                                                          | 業務のタスク管理として一時利用 (半年未満)                             |
+| Item                                                                                                                                                                                           | Detail                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| ![GitHub](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)<br>![GitHub Enterprise](https://img.shields.io/badge/-GitHub%20Enterprise-181717.svg?logo=github&style=flat) | 開発業務および個人開発に利用 (6 年以上)                   |
+| ![Backlog](https://img.shields.io/badge/-Backlog-42CE9F.svg?logo=&style=flat)                                                                                                                  | 業務のタスク管理とソースコードの差分管理として利用 (4 年) |
+| ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC.svg?logo=bitbucket&style=flat)<br>![GitLab](https://img.shields.io/badge/-GitLab-FC6D26.svg?logo=gitlab&logoColor=FFF&style=flat)  | 業務のソースコード管理として一部利用 (1年未満)            |
+| ![Redmine](https://img.shields.io/badge/-Redmine-B32024.svg?logo=redmine&style=flat)                                                                                                           | 業務のタスク管理として一時利用 (半年未満)                 |
 
 ### 組版
 
